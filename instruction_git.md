@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
-![git logo](git-logo.png)
+![git img](git-logo.png)
 
     Команды для работы в Git
 
